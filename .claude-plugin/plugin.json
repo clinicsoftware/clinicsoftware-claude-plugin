@@ -1,0 +1,23 @@
+{
+  "name": "clinicsoftware",
+  "version": "1.0.0",
+  "description": "ClinicSoftware CRM integration. Search clients and leads, manage appointments and billing analytics, create tasks and notes, queue email/SMS, send WhatsApp, and work AI reply drafts. Requires a provisioned csmcp_ token. Run /clinicsoftware:setup after install.",
+  "author": {
+    "name": "ClinicSoftware",
+    "url": "https://clinicsoftware.com"
+  },
+  "homepage": "https://clinicsoftware.com",
+  "repository": "https://github.com/clinicsoftware/clinicsoftware-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "crm",
+    "clinicsoftware",
+    "healthcare",
+    "aesthetics",
+    "appointments",
+    "leads",
+    "messaging"
+  ],
+  "defaultEnabled": false
+}
