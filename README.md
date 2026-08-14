@@ -84,12 +84,6 @@ plugins/clinicsoftware/
 └── README.md
 ```
 
-## Security notes
-
-- Tokens are hashed at rest in the business registry; paste them only into the OAuth form or your local terminal.
-- Never commit `.env` files or live `csmcp_` values.
-- Prefer Anthropic Verified / trusted sources when installing community plugins.
-
 ## Support
 
 - Product: [https://clinicsoftware.com](https://clinicsoftware.com)
